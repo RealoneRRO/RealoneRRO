@@ -9,6 +9,7 @@ Moreso, if I'm not tinkering with data for a living. You can also find me pickin
 * 📫 How to reach me:
   
 Twitter: @Realone_RRO
+
 LinkedIn: https://www.linkedin.com/in/realonerro/
 
 * Check my portfolio at 
