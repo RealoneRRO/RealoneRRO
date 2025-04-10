@@ -8,11 +8,13 @@ Moreso, if I'm not tinkering with data for a living. You can also find me pickin
 
 * 📫 How to reach me:
   
-Twitter: @Realone_RRO
+**Twitter**: @Realone_RRO
 
-LinkedIn: https://www.linkedin.com/in/realonerro/
+**LinkedIn**: https://www.linkedin.com/in/realonerro/
 
-* Check my portfolio at 
+* Check my portfolio at
+   
 https://github.com/RealoneRRO?tab=repositories
+
 https://codesandbox.io/dashboard/recent
 
