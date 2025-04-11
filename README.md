@@ -4,7 +4,7 @@ Hi there. I'm a passionate Data Scientist with proven professional experience bu
 
 Creating solutions that address real-world challenges and deliver value to end-users. I leverage my technical and analytical skills to bridge the gap between complex data insights and actionable business solutions.
 
-Moreso, if I'm not tinkering data for a living. You can also find me picking up and figuring out new technologies and also playing football. so basically, that is what I do outside of this.
+Moreso, if I'm not tinkering data for a living. You can also find me picking up and figuring out new technologies and playing football. So basically, that is what I do outside of this.
 
 * 📫 How to reach me:
   
