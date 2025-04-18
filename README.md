@@ -1,4 +1,4 @@
-# 🔭 Ridwan O. Raheem
+# 🤖 Ridwan O. Raheem
 
 Hi there. I'm a passionate Data Scientist with proven professional experience building machine learning models and financial solutions across various industries.
 
